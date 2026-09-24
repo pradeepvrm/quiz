@@ -1432,7 +1432,7 @@ const quizData = [{
 }, {
     question: "What does `console.log('Hello World' + 1 + 2)` print?",
     options: [
-        "Hello World12",
+        "Hello World13",
         "Hello World3",
         "Hello World12",
         "undefined"

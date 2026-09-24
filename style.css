@@ -9,6 +9,15 @@ body {
     visibility: hidden;
 }
 
+#header {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* #scoreCount {
+    margin-left: auto;
+} */
+
 #container {
     display: grid;
     justify-content: center;
